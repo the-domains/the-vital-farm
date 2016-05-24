@@ -1,0 +1,28 @@
+name: The Vital Farm
+favicon: null
+layout_spectrum: 0.16255022399127483
+typography_spectrum: 0.5820397448260337
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.06815751129761338
+  lightness: 0.8280465451534837
+  saturation: 0.46179202967323363
+  rhythmicContrast: 0.33742225146852434
+purpose: []
